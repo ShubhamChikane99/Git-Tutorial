@@ -70,3 +70,4 @@ Note : name of remote connection is always used to establish communication betwe
     -git commit-
     -git pull
     -git push
+ 23. Merge conflicts are very common scnario.  
