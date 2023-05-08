@@ -57,3 +57,6 @@ remote repository and given name to it.
 
 Note : name of remote connection is always used to establish communication between the repo
 
+20. 'git add <file1><file2><file3>' : This command will add multiple file changes together in the staging area.
+
+21. 'git add .' : This command will be add all file from working repo to staging area.
