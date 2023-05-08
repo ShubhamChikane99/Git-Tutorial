@@ -40,5 +40,21 @@ we just want the changes to be moves working area or staging are then we git res
 
 13. 'git diff commit1 and commit2' -> gives the differance of all file changes between two commit.
 
-14.' git commit -m "This is my 5th commit" '-> if we want to avid opening  the txt editior like vim/nano 
+14. 'git commit -m "This is my 5th commit" '-> if we want to avid opening  the txt editior like vim/nano 
 to add commit message we can use this following command. 
+
+15. 'git remote' -> list down all the all remote connection name.
+
+16. 'remote connection' -> It help to you to link to git repository uploading and downloading changes from
+each otherwise.
+
+17. 'git remote add <name of remote> <link of remote>' -> this command help us to add a new link to the
+remote repository and given name to it.
+
+18. 'git remote rm <name of remote>' :  this command deletes the remote connection.
+
+19 'git remote rename <olname> <newname>' : This command rename the remote connection.
+
+Note : name of remote connection is always used to establish communication between the repo
+
+this is done
