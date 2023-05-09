@@ -70,3 +70,5 @@ Note : name of remote connection is always used to establish communication betwe
     -git commit-
     -git pull
     -git push
+
+ 21. try to upload   
